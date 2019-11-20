@@ -1,0 +1,42 @@
+/***
+Advanced Search
+***/
+
+.advanced-search-sidebar {
+  float: left;
+  width: 230px;
+  margin-right: 20px;
+}
+
+.advanced-search-content {
+  overflow: hidden;
+}
+
+/* BEGIN ADVANCED SEARCH LIST */
+
+.advanced-search-list ul li a {
+  font-size: 14px !important;
+  padding: 8px 10px;
+}
+
+.advanced-search-list .nav li a .badge {
+  float: right;
+  background-color: #b4c4cd !important;
+  margin-top: 1px !important;
+}
+
+.advanced-search-list .nav li a .badge-active {
+  background-color: #ffffff !important;
+  color: #637b89 !important;
+}
+
+.advanced-search-list .nav .active {
+  background-color: #ffffff !important;
+}
+
+.advanced-search-list .nav-pills > li.active > a {
+  background-color: #87a9c7 !important;
+}
+
+/* END ADVANCED SEARCH LIST */
+
